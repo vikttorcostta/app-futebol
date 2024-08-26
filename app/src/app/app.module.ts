@@ -21,6 +21,7 @@ import {provideAnimationsAsync} from "@angular/platform-browser/animations/async
     RodadasComponent,
     FasesComponent,
     ArtilhariaComponent,
+    DefaultLayoutComponent
   ],
   imports: [
     BrowserModule,

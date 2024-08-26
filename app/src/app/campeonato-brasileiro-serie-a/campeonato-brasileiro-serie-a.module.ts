@@ -4,6 +4,8 @@ import { TabelaComponent } from './tabela/tabela.component';
 import { ArtilhariaComponent } from './artilharia/artilharia.component';
 import { FasesComponent } from './fases/fases.component';
 import { RodadasComponent } from './rodadas/rodadas.component';
+import { PartidasAoVivoComponent } from './partidas-ao-vivo/partidas-ao-vivo.component';
+import { PartidasComponent } from './partidas/partidas.component';
 
 
 
@@ -12,7 +14,9 @@ import { RodadasComponent } from './rodadas/rodadas.component';
     TabelaComponent,
     ArtilhariaComponent,
     FasesComponent,
-    RodadasComponent
+    RodadasComponent,
+    PartidasAoVivoComponent,
+    PartidasComponent
   ],
   imports: [
     CommonModule
