@@ -1,12 +1,18 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-
+import {RodadasComponent} from "./rodadas.component";
+import {RodadasRoutingModule} from "./rodadas-routing.module";
+import {NgxIconify} from "ngx-iconify";
+import {MatButtonModule} from "@angular/material/button";
 
 
 @NgModule({
-  declarations: [],
+  declarations: [RodadasComponent],
   imports: [
-    CommonModule
+    CommonModule,
+    RodadasRoutingModule,
+    MatButtonModule,
+    NgxIconify
   ]
 })
 export class RodadasModule { }
