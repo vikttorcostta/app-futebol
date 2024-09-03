@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8cb2d18-4a3e-482e-b988-1ce361d89635" name="Changes" comment=":compass: Rotas: Criação de rotas com o RouterLink">
+      <change afterPath="$PROJECT_DIR$/app/src/app/service.store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/assets/scorebr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/layout/default-layout/default-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/layout/default-layout/default-layout.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/layout/default-layout/default-layout.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/layout/default-layout/default-layout.component.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lAWTGeiFk08psVy99CYvcOoY2f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.partidas-ao-vivo.module.ts.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/viktt/WebstormProjects/app-futebol/app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\viktt\\WebstormProjects\\app-futebol\\app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\viktt\WebstormProjects\app-futebol\app" />
+      <recent name="C:\Users\viktt\WebstormProjects\app-futebol\app\src\assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-WS-242.20224.342" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8cb2d18-4a3e-482e-b988-1ce361d89635" name="Changes" comment="" />
+      <created>1724623368471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724623368471</updated>
+      <workItem from="1724623370730" duration="9499000" />
+      <workItem from="1724672152789" duration="736000" />
+      <workItem from="1724674382085" duration="10952000" />
+      <workItem from="1724757620246" duration="2354000" />
+      <workItem from="1724873482383" duration="5205000" />
+      <workItem from="1725027620472" duration="6671000" />
+      <workItem from="1725039331416" duration="12346000" />
+      <workItem from="1725385129492" duration="1324000" />
+      <workItem from="1725386495192" duration="2078000" />
+    </task>
+    <task id="LOCAL-00001" summary=":bricks: Infraestrutura: criação de modulos e componentes: artilharia, rodadas, fases e tabela">
+      <option name="closed" value="true" />
+      <created>1724634423343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724634423343</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":sparkles: declarações dos componentes criados para app module">
+      <option name="closed" value="true" />
+      <created>1724634771994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724634771994</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":compass: Rotas: Criação de rotas com o RouterLink">
+      <option name="closed" value="true" />
+      <created>1724877728168</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724877728168</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":bricks: Infraestrutura: criação de modulos e componentes: artilharia, rodadas, fases e tabela" />
+    <MESSAGE value=":sparkles: declarações dos componentes criados para app module" />
+    <MESSAGE value=":compass: Rotas: Criação de rotas com o RouterLink" />
+    <option name="LAST_COMMIT_MESSAGE" value=":compass: Rotas: Criação de rotas com o RouterLink" />
+  </component>
+</project>
