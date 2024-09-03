@@ -50,7 +50,6 @@ import {MediaMatcher} from "@angular/cdk/layout";
     MatButtonToggle,
     MatToolbarRow,
     MatButton
-
   ],
   providers: [
     provideHttpClient(withInterceptorsFromDi()),
