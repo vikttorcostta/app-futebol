@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class SidebarComponent {
 
+  public logoPrincipal: string;
+
+  constructor(){
+
+    this.logoPrincipal = "/assets/scorebr.png";
+
+  }
+
 }
