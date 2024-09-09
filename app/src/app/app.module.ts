@@ -11,16 +11,15 @@ import {MatButton, MatIconButton} from "@angular/material/button";
 import {MatNavList} from "@angular/material/list";
 import {MatSidenav, MatSidenavContainer, MatSidenavContent} from "@angular/material/sidenav";
 import {MatAccordion, MatExpansionPanel, MatExpansionPanelHeader, MatExpansionPanelTitle} from "@angular/material/expansion";
-import {IconifyIconComponent} from 'iconify-icon';
+
 import {NgxIconify} from 'ngx-iconify';
-import {IconifyIcon} from "iconify-icon";
-import {IconifyAPIModule} from "iconify-icon";
 import {MatIcon} from "@angular/material/icon";
 import {MatButtonToggle} from "@angular/material/button-toggle";
 import { SidebarComponent } from './layout/sidebar/sidebar.component';
 import { FooterComponent } from './layout/footer/footer.component';
 import { HeaderComponent } from './layout/header/header.component';
-import {MediaMatcher} from "@angular/cdk/layout";
+
+
 
 
 @NgModule({
@@ -29,7 +28,7 @@ import {MediaMatcher} from "@angular/cdk/layout";
     DefaultLayoutComponent,
     SidebarComponent,
     FooterComponent,
-    HeaderComponent,
+    HeaderComponent
   ],
   imports: [
     AppRoutingModule,
@@ -49,7 +48,9 @@ import {MediaMatcher} from "@angular/cdk/layout";
     MatIcon,
     MatButtonToggle,
     MatToolbarRow,
-    MatButton
+    MatButton,
+    
+  
   ],
   providers: [
     provideHttpClient(withInterceptorsFromDi()),
